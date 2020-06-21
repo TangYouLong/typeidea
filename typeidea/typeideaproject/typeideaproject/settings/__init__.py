@@ -1,0 +1,1 @@
+D:\PycharmProjects\typeideaenvironment\typeidea\typeideaproject\settings
