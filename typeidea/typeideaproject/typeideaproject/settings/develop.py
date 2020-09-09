@@ -1,6 +1,6 @@
- from .base import * #NOQA
+from .base import * #NOQA
 
- DEBUG = True
+DEBUG = True
 
 DATABASES = {
     'default': {
